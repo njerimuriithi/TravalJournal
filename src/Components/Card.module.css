@@ -1,0 +1,48 @@
+.mainContent{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom:25px ;
+}
+.img{
+    width: 350px;
+    border-radius: 20px;
+    
+}
+
+.contents{
+    padding-left: 20px !important;
+}
+.icon{
+    color: red;
+}
+.contentItems{
+    display: flex;
+    font-size: 18px;
+    font-family: cursive;
+}
+.location{
+    margin: 0;
+}
+.link{
+    margin-left: 30px;
+    color: darkslategrey;
+}
+.title{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.dates{
+    font-family: cursive;
+    font-size: 15px;
+    margin-top: -15px;
+}
+.description{
+    display: flex;
+    width: 600px;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 16px;
+    font-weight: 300;
+}
+
